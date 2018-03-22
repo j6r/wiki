@@ -1,1 +1,1 @@
-Use this project's [wiki](https://github.com/ist440-team2/Wiki/wiki) for documentation.
+Use this project's [wiki](https://github.com/j6r/wiki/wiki) for documentation.
